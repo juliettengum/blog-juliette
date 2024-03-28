@@ -12,3 +12,4 @@ My Personal Blog is a simple blogging website where users can showcase their tho
 4. Navigate to the posts page (`blog.html`) to view all blog entries.
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+https://juliettengum.github.io/blog-juliette/
